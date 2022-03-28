@@ -1,0 +1,2 @@
+x. Check if Tensorflow is working on M1-GPU
+x2. Verify procedure with https://stackoverflow.com/questions/67352841/tensorflow-is-not-using-my-m1-macbook-gpu-during-training
