@@ -1,1 +1,1 @@
-Hi, I’m Tommy! I’m interested in a wide range of CS-related topics, such as Machine Learning, Reinforcement Learning and Evolutionary Algorithms. I’m always learning more about ML, various programming languages and working with large databases. If you'd like to get in touch, you can reach me via tmaaiveld@gmail.com.
+Hi, I'm Tommy! I mostly work on machine learning & AI applications. I'm interested in the full stack of ML applications, from data structures & algorithms to UX & UI design. If you'd like to get in touch, you can reach me via tmaaiveld@gmail.com.
